@@ -50,9 +50,9 @@ basically,
 # 10^8 operation rule : most of the mordern mahcine can perform 10^8 operation/second.
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------
 
-# --------------------------------------------------- Space Complexity -------------------------------------------------------------------
+# --------------------- Space Complexity ------------------------------------
 
 The space complexity of an algorithm quantifies the amount of space taken by an algorithm to run as a function of the length of the input.
 
